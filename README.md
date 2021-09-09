@@ -1,6 +1,6 @@
 # NeoNetspherePirate
 S4League Emulator
-Fixed In Emulator :
+#Fixed In Emulator :
 Level Rewards
 Complete Friend System
 Complete Capsule System
