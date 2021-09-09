@@ -1,5 +1,5 @@
 # NeoNetspherePirate
-S4League Emulator- Edited Version By DragonS4L Team
+S4League Emulator- Edited Version By DragonS4L Team Season 10
 
 **Fixed In Emulator :**
 
