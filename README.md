@@ -1,8 +1,11 @@
 # NeoNetspherePirate
 S4League Emulator
-#Fixed In Emulator :
-Level Rewards
-Complete Friend System
-Complete Capsule System
-Saves Player Count
----original emulator By Wtfblub
+
+    Fixed In Emulator :
+
+ 1. Level Rewards
+ 2.  Complete Friend System 
+ 3. Complete Capsule System
+ 4. SavesPlayer Count
+
+    ---original emulator By Wtfblub
