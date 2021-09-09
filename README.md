@@ -1,7 +1,7 @@
 # NeoNetspherePirate
 S4League Emulator- Edited Version By DragonS4L Team
 
-    **Fixed In Emulator :**
+**Fixed In Emulator :**
 
  1. Complete Level Rewards
  2.  Complete Friend System 
@@ -9,6 +9,6 @@ S4League Emulator- Edited Version By DragonS4L Team
  4. Complete SavesPlayer Count
  5. Complete Club System
 
-    ---
+
 
 ## Original Emulator By Wtfblub
